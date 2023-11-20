@@ -6,7 +6,7 @@ public class Student {
     public static void main(String[] args) {
         HashMap<String,Integer> studenti = new HashMap<>();
         studenti.put("Eugen",10);
-        studenti.put("Adriana",7);
+        studenti.put("Andreea",7);
         int optiune;
         do{
             System.out.println("1. Adaugati un student.\n2. Cautati un student.\n3. Iesire.");
